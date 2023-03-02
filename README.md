@@ -8,13 +8,13 @@
 
 Используемый стек (модули/библиотеки и т.д.:
 
-docx
+- docx
 
 from docx.shared import Mm, Cm, Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_ALIGN_VERTICAL
 
-pymorphy2
+- pymorphy2
 
 
 from pymorphy2.tokenizers import simple_word_tokenize
