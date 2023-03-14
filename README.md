@@ -27,12 +27,16 @@
 - docx
 - pymorphy2
 - docxtpl 
+- openpyxl
 - pandas
 - numpy 
 - datetime
 - re
 - os
 - random
+- dateutil
+- detect_delimiter
+- math
 
 В репозитории представлены (все данные обезличены): 
 
