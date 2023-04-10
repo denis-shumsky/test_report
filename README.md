@@ -31,15 +31,20 @@
 - pandas
 - numpy 
 - datetime
+- detect_delimiter
+- dateutil.parser
 - re
 - os
 - random
 - dateutil
 - detect_delimiter
 - math
+- matplotlib
+- scipy
 
-В репозитории представлены (все данные обезличены): 
+В репозитории представлены: 
 
 - файл-шаблон для заполнения
 - вариант готового документа
 - код / документация, выполненные в Jupyter Notebook
+(все данные обезличены)
