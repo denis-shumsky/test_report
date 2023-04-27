@@ -1,12 +1,8 @@
-# Автоматизация формирования отчётов по резульатам испытаний (проект в работе) 
+# Автоматизация формирования отчётов по резульатам испытаний. 
 
 Разработка пет-проекта по автоматизации рутинной работы по формированию отчётов испытаний и документации по отчёту. 
 Автозаполнение Word файлов на основе вводных данных.
 Работа с Word, Excel, PDF, JPEG файлами при помощи Python.
-
-На данный момент часть задач реализованы, часть предстоит реализовать.
-
-По мере готовности пет-проекта репозиторий будет пополняться.
 
 Задачи:
 
@@ -24,23 +20,34 @@
 
 Используемый стек:
 
-- docx
-- pymorphy2
-- docxtpl 
-- openpyxl
-- pandas
+- pandas 
 - numpy 
 - datetime
-- detect_delimiter
-- dateutil.parser
+- random
+- math
 - re
 - os
-- random
-- dateutil
-- detect_delimiter
-- math
+- docx
+- docx.enum.text 
+- docx.enum.table 
+- docx.shared
+- docx.oxml 
+- docx.oxml.ns
+- docxtpl 
+- openpyxl 
+- openpyxl.styles
+- pdf2image 
+- pymorphy2
+- pymorphy2.tokenizers
 - matplotlib
+- matplotlib.pyplot
+- matplotlib.ticker
 - scipy
+- scipy.interpolate
+- scipy.ndimage
+- detect_delimiter
+- dateutil.parser 
+
 
 В репозитории представлены: 
 
